@@ -1,0 +1,13 @@
+#vscode ignore
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+#Folders ignore
+/IT395
+
+#Files inore
+geckodriver.log
+config-orig.ini
