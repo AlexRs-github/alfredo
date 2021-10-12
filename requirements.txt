@@ -1,5 +1,5 @@
 PyAutoGUI==0.9.41
 selenium==3.141.0
 pywinauto==0.6.5
-opencv_python==4.0.0.21
+opencv_python==4.2.0.32
 beautifulsoup4==4.7.1
